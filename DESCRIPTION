@@ -1,0 +1,10 @@
+Package: palpal
+Title: Large Colorblind-Friendly Palettes
+Version: 0.0.0.9000
+Authors@R: person("Anastasia", "Lucas", email = "anastasia.lucas.bioinfo@gmail.com", role = c("aut", "cre"))
+Description: This package consists of color-blind friendly palettes found on the web and can be used with popular plotting packages such as ggplot2.
+Depends: R (>= 2.5.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
