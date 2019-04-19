@@ -24,4 +24,6 @@ Discrete only
 \examples{
 palpal("wong")
 palpal("mkweb")
+\dontrun{ggplot(data=mtcars, aes(x=mpg, y=disp, color=factor(cyl))) +
+geom_point() + scale_color_manual(values=palpal("mkweb"))}
 }
