@@ -7,6 +7,8 @@ palpal_palettes <- list(wong = c("#000000", "#e69f00", "#56b4e9", "#009e73",
                         mkweb = c("#009292", "#920000", "#490092", "#db6d00", "#24ff24",
                           "#ffff6d", "#000000", "#006ddb", "#004949","#924900",
                           "#ff6db6", "#6db6ff","#b66dff", "#ffb6db","#b6dbff"))
+#add Turbo
+
 #' Palette generator
 #' Discrete only
 #' @param n Number of colors, default all
